@@ -1,36 +1,38 @@
-# 👋 Hey there! I'm Rebuilding My GitHub Profile 🛠️  
+# 👋 Hi, I'm Akanksha!  
 
-Welcome to my GitHub! I'm currently in the process of **restructuring my repositories**, making sure each project reflects my **skills, growth, and learning journey**. Stay tuned for a **cleaner, more organized portfolio** of my work!  
+🎓 Aerospace student turned **AI/ML Explorer** | 🧠 Self-taught | 🔬 Passionate about applied research  
 
-## ✨ What You Can Expect  
-✅ Well-documented repositories showcasing **AI/ML projects**  
-✅ Clear descriptions of my **hands-on experience** in various domains  
-✅ Ongoing projects that reflect **what I’m currently learning**  
-
-## 💡 Skills & Technologies  
-### **What I Know**  
-- **Machine Learning & Deep Learning** (PyTorch, TensorFlow, Scikit-Learn)  
-- **Computer Vision** (OpenCV, CNNs, Object Detection)  
-- **NLP** (Transformers, Hugging Face, Text Summarization)  
-- **Reinforcement Learning** (AirSim, RL Algorithms)  
-- **Game Development** (Pygame)  
-- **Web Development** (Flask, FastAPI)  
-
-### **What I’m Currently Learning 🚀**  
-- **Advanced Neural Network Architectures**  
-- **Deploying ML Models in Production**  
-- **VST Plugin Development for AI Audio Tools**  
-
-## 🚧 Work In Progress  
-As I revamp my GitHub, I’m archiving old repositories, refining existing ones, and adding new projects that better showcase my expertise. If you're interested in my work, feel free to explore and **stay tuned for updates!**  
-
-📩 **Want to collaborate?** Let’s connect on [LinkedIn](https://www.linkedin.com/in/akanksha--thakur) or check out my [Portfolio](https://akanksha-th.github.io/Portfolio/).  
+I’m building a portfolio of **end-to-end ML projects** to showcase my skills in data science, deep learning, and deployment. My goal is to bridge the gap between **research and real-world applications** of AI.  
 
 ---
 
-### **Pinned Repositories (Coming Soon 🔥)**  
-> 🔹 Handpicked projects that best showcase my work  
+## 🔥 What I Do  
+- 🤖 **Machine Learning & Deep Learning** – PyTorch, TensorFlow, Scikit-Learn  
+- 🖼️ **Computer Vision** – CNNs, Object Detection, OpenCV  
+- 📝 **Natural Language Processing** – Transformers, Hugging Face, Text Summarization  
+- 🎮 **Reinforcement Learning & Simulation** – RL Algorithms, AirSim  
+- 🌐 **Deployment & MLOps** – ZenML, MLflow, Docker, FastAPI, Flask  
 
 ---
 
-⚡ *Thanks for stopping by! More cool projects coming soon!* 😊🚀  
+## 🚀 Featured Projects  
+
+🔹 [Urban Noise Clustering](https://github.com/akanksha-th/Urban_Noise_Clustering)  
+Unsupervised learning pipeline with **ZenML + MLflow** for clustering urban sound complaints. Demonstrates full MLOps workflow with GitHub LFS dataset handling.  
+
+🔹 [Flight Price Prediction](https://github.com/akanksha-th/Flight_Price_Prediction)  
+End-to-end regression project predicting flight fares, including data preprocessing, feature engineering, and model deployment.  
+
+🔹 [Text Summarization](https://github.com/akanksha-th/Text_Summarization)  
+NLP project using Transformer-based models to generate concise summaries of long-form text.  
+
+➡️ Explore more in my [Repositories](https://github.com/akanksha-th?tab=repositories).  
+
+---
+
+## 📈 GitHub Stats  
+
+![Akanksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akanksha-th&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha-th&layout=compact&theme=tokyonight)  
+
+---
