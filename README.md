@@ -44,7 +44,7 @@ NLP project using Transformer-based models to generate concise summaries of long
 ## 📈 GitHub Stats  
 
 ![Akanksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akanksha-th&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=akanksha-th&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=akanksha-th&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha-th&layout=compact&theme=tokyonight)  
 ![Akanksha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akanksha-th&theme=tokyo-night)  
 
