@@ -34,8 +34,8 @@ Unsupervised learning pipeline with **ZenML + MLflow** for clustering urban soun
 🔹 [Flight Price Prediction](https://github.com/akanksha-th/Flight_Price_Prediction)  
 End-to-end regression project predicting flight fares, including data preprocessing, feature engineering, and model deployment.  
 
-🔹 [Text Summarization](https://github.com/akanksha-th/Text_Summarization)  
-NLP project using Transformer-based models to generate concise summaries of long-form text.  
+🔹 [TEDTalk Recommender](https://github.com/akanksha-th/TedTalk-Recommendation-System)  
+A Flask-based TED Talk recommendation system that uses YouTube API, embeddings, and content-based filtering to suggest talks dynamically from the TED YouTube channel.  
 
 ➡️ Explore more in my [Repositories](https://github.com/akanksha-th?tab=repositories).  
 
