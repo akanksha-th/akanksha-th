@@ -28,14 +28,14 @@
 
 ## 🚀 Featured Projects  
 
-🔹 [Urban Noise Clustering](https://github.com/akanksha-th/Urban_Noise_Clustering)  
-Unsupervised learning pipeline with **ZenML + MLflow** for clustering urban sound complaints. Demonstrates full MLOps workflow with GitHub LFS dataset handling.  
-
-🔹 [Flight Price Prediction](https://github.com/akanksha-th/Flight_Price_Prediction)  
-End-to-end regression project predicting flight fares, including data preprocessing, feature engineering, and model deployment.  
-
 🔹 [TEDTalk Recommender](https://github.com/akanksha-th/TedTalk-Recommendation-System)  
 A Flask-based TED Talk recommendation system that uses YouTube API, embeddings, and content-based filtering to suggest talks dynamically from the TED YouTube channel.  
+
+🔹 [Urban Noise Clustering](https://github.com/akanksha-th/Urban_Noise_Clustering)  
+An end-to-end ML pipeline pipeline for analyzing and clustering NYC 311 noise complaint data. Features include modular data pipelines, feature engineering, baseline and ensemble clustering models and a Flask dashboard for visualization.  
+
+🔹 [Flight Price Prediction](https://github.com/akanksha-th/Flight_Price_Prediction)  
+End-to-end regression project pipeline with **ZenML and MLflow** predicting flight fares, including data preprocessing, feature engineering, and model deployment.  
 
 ➡️ Explore more in my [Repositories](https://github.com/akanksha-th?tab=repositories).  
 
