@@ -13,13 +13,13 @@
 
 ---
 
-I build **production LLM systems** — not demos.  
+I build **production LLM systems** – not just demos.  
 Eval layers, async pipelines, real observability. Aerospace grad who went deep on AI independently, published at **ICPR 2024**, and has a bias for measuring everything I ship.
 
 ```python
 current_focus = {
-    "building":   "Podcast RAG Telegram bot — eval-gated CI/CD, Prometheus/Grafana observability",
-    "published":  "ASwin-YOLO @ ICPR 2024 — 54% training time reduction, 5% accuracy gain",
+    "building":   "Podcast RAG Telegram bot – eval-gated CI/CD, Prometheus/Grafana observability",
+    "published":  "ASwin-YOLO @ ICPR 2024 – 54% training time reduction, 5% accuracy gain",
     "seeking":    "AI Engineering / Data Science roles in India",
 }
 ```
@@ -30,10 +30,10 @@ current_focus = {
 
 | Project | Stack | Key result |
 |---|---|---|
-| **[Podcast RAG — Telegram Bot](https://github.com/akanksha-th/podcast_fact_extractor_rag)** | LangGraph · Qdrant · ARQ · DeepEval · Prometheus | 3 prompt regressions caught pre-merge via CI eval gates |
+| **[Podcast RAG – Telegram Bot](https://github.com/akanksha-th/podcast_fact_extractor_rag)** | LangGraph · Qdrant · ARQ · DeepEval · Prometheus | 3 prompt regressions caught pre-merge via CI eval gates |
 | **[YouTube Sentiment API](https://github.com/akanksha-th)** | FastAPI · RoBERTa · Redis · asyncio | p95 latency <100ms · ~40% faster than sequential inference |
 | **[Slack NL-to-SQL Bot](https://github.com/akanksha-th)** | LangChain · FAISS · PostgreSQL · Slack API | Plain-English → valid SQL via schema-aware prompt chain |
-| **[TedTalk Recommender](https://github.com/akanksha-th/TedTalk-Recommendation-System)** | FAISS · HuggingFace · FastAPI | 2,500+ transcripts indexed — full content embeddings, not just titles |
+| **[TedTalk Recommender](https://github.com/akanksha-th/TedTalk-Recommendation-System)** | FAISS · HuggingFace · FastAPI | 2,500+ transcripts indexed – full content embeddings, not just titles |
 | **[Flight Price Prediction](https://github.com/akanksha-th/Flight_Price_Prediction)** | ZenML · MLflow · Scikit-learn | End-to-end pipeline with tracked experiments and reproducible runs |
 
 ---
@@ -54,7 +54,7 @@ Languages     │  Python  SQL  Bash
 ## Research
 
 **ASwin-YOLO: Attention–Swin Transformers in YOLOv7 for Air-to-Air UAV Detection**  
-*ICPR 2024 — International Conference on Pattern Recognition*
+*ICPR 2024 – International Conference on Pattern Recognition*
 
 Replaced YOLOv7 backbone with Swin Transformer + LSTM attention hybrid → **54% faster training (2.2×)**, **+5% accuracy**, single-GPU same-day cycles.  
 [→ Read paper](https://link.springer.com/chapter/10.1007/978-3-031-78166-7_21)
