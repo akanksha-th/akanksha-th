@@ -34,7 +34,6 @@ current_focus = {
 | **[YouTube Sentiment API](https://github.com/akanksha-th)** | FastAPI · RoBERTa · Redis · asyncio | p95 latency <100ms · ~40% faster than sequential inference |
 | **[Slack NL-to-SQL Bot](https://github.com/akanksha-th)** | LangChain · FAISS · PostgreSQL · Slack API | Plain-English → valid SQL via schema-aware prompt chain |
 | **[TedTalk Recommender](https://github.com/akanksha-th/TedTalk-Recommendation-System)** | FAISS · HuggingFace · FastAPI | 2,500+ transcripts indexed – full content embeddings, not just titles |
-| **[Flight Price Prediction](https://github.com/akanksha-th/Flight_Price_Prediction)** | ZenML · MLflow · Scikit-learn | End-to-end pipeline with tracked experiments and reproducible runs |
 
 ---
 
@@ -65,6 +64,7 @@ Replaced YOLOv7 backbone with Swin Transformer + LSTM attention hybrid → **54%
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akanksha-th&show_icons=true&theme=dark&hide_border=true&bg_color=0d0c0a&title_color=e8a030&icon_color=e8a030&text_color=e8e0d0)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha-th&layout=compact&theme=dark&hide_border=true&bg_color=0d0c0a&title_color=e8a030&text_color=e8e0d0)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akanksha-th&theme=react-dark&bg_color=0d0c0a&color=e8a030&line=e8a030&point=f0e8d8&hide_border=true)
 
 </div>
 
