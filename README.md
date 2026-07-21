@@ -31,8 +31,8 @@ current_focus = {
 | Project | Stack | Key result |
 |---|---|---|
 | **[Podcast RAG – Telegram Bot](https://github.com/akanksha-th/podcast_fact_extractor_rag)** | LangGraph · Qdrant · ARQ · DeepEval · Prometheus | 3 prompt regressions caught pre-merge via CI eval gates |
-| **[YouTube Sentiment API](https://github.com/akanksha-th)** | FastAPI · RoBERTa · Redis · asyncio | p95 latency <100ms · ~40% faster than sequential inference |
-| **[Slack NL-to-SQL Bot](https://github.com/akanksha-th)** | LangChain · FAISS · PostgreSQL · Slack API | Plain-English → valid SQL via schema-aware prompt chain |
+| **[YouTube Sentiment API](https://github.com/akanksha-th/text-classification-api)** | FastAPI · RoBERTa · Redis · asyncio | p95 latency <100ms · ~40% faster than sequential inference |
+| **[Slack NL-to-SQL Bot](https://github.com/akanksha-th/slackAI-data-bot-mvp)** | LangChain · FAISS · PostgreSQL · Slack API | Plain-English → valid SQL via schema-aware prompt chain |
 | **[TedTalk Recommender](https://github.com/akanksha-th/TedTalk-Recommendation-System)** | FAISS · HuggingFace · FastAPI | 2,500+ transcripts indexed – full content embeddings, not just titles |
 
 ---
